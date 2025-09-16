@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://identimarketing.com/sitemap.xml
