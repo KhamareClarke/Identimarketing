@@ -11,7 +11,7 @@ import { AnimatedSection } from "@/components/animated-section"
 import { CTASection } from "@/components/cta-section"
 import { ContactSection } from "@/components/contact-section"
 import ScarcityPopup from "@/components/scarcity-popup"
-import LiveChatWidget from "@/components/live-chat-widget"
+import AIChatBot from "@/components/ai-chat-bot"
 import ShortContactForm from "@/components/short-contact-form"
 import CookieConsent from "@/components/cookie-consent"
 import Head from "next/head"
@@ -43,7 +43,7 @@ export default function Home() {
               </main>
       <SiteFooter />
       <ScarcityPopup />
-      <LiveChatWidget />
+      <AIChatBot />
       </div>
     </>
   );
